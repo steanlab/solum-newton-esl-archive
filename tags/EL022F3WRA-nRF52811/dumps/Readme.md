@@ -6,3 +6,5 @@ solum_EL022F3WRA_factory_ficr.bin	- заводские уникальные да
 solum_EL022F3WRA_live_ram.bin	- текущее содержимое обычной RAM
 solum_EL022F3WRA_code_ram.bin	- исполняемая RAM в текущем сеансе
 SHA256SUMS.txt	Контрольные суммы
+
+Архив запаролен (CAPS_my_cat), чтобы получить пароль - писать на почту, указанную в контактах
