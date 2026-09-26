@@ -10,7 +10,9 @@
 ## Поддерживаемые платы
 
 `tags/EL022F3WRA-nRF52811/` Solum Newton 2.2" - nRF52811-QFAA - Заводской бэкап
-`tags/EL022F3xxx-EFR32BG22C222WG/` Solum Newton 2.2" - EFR32BG22C222WG |- В работе
+
+`tags/EL022F3xxx-EFR32BG22C222WG/` Solum Newton 2.2" - EFR32BG22C222WG - В работе
+
 `tags/EL016F5W4C-EFR32BG22C222WG/` Solum Newton 1.6" - EFR32BG22C222WG - В работе
 
 ## Инструменты
