@@ -1,0 +1,39 @@
+{
+  "verified": true,
+  "port": "/dev/ttyACM0",
+  "baud": 2000000,
+  "attempts": [
+    {
+      "family": "825x",
+      "divider_probe_mhz": 24,
+      "chip_register_bytes": "026255",
+      "jedec_id": "c86014",
+      "detected_flash_bytes": 1048576,
+      "read_bytes": 1048576,
+      "sws_address_bytes": 3,
+      "probe_sha256": "002e564b7f85545898b945cbf3759359b5e4d202e6163eede787e8e1801e9a58"
+    }
+  ],
+  "runs": [
+    {
+      "file": "flash-1.bin",
+      "bytes": 1048576,
+      "sha256": "c3d6314e3d65c1bcdb9be85de9e5f4e64086fab23f319f1f64bc8ff69694e96b",
+      "read_seconds": 59.428938594999636
+    },
+    {
+      "file": "flash-2.bin",
+      "bytes": 1048576,
+      "sha256": "c3d6314e3d65c1bcdb9be85de9e5f4e64086fab23f319f1f64bc8ff69694e96b",
+      "read_seconds": 59.35446689700257
+    }
+  ],
+  "hardware_scope": "Legacy Telink SWS/SPI compatibility probe; exact MCU model unconfirmed",
+  "selected_family": "825x",
+  "detected_flash_bytes": 1048576,
+  "read_bytes": 1048576,
+  "complete_flash": true,
+  "transport_faults": 0,
+  "reset_echo_verified": true,
+  "reset_asserted_at_finish": false
+}
