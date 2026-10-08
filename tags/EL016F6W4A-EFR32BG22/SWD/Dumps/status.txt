@@ -1,0 +1,17 @@
+Detected adapters:
+	ID E66598541B873E39 - Raspberry Pi Debugprobe on Pico (CMSIS-DAP)
+Requesting status
+DCI write: 0x8
+DCI write: 0xfe010000
+DCI read: 0x18
+DCI read: 0x20
+DCI read: 0x101020e
+DCI read: 0xffffffff
+DCI read: 0x2
+DCI read: 0xffffffff
+Device status: 0x20
+Device family: EFR32xG22
+SE FW version 0x1020e
+Debug unlock is allowed
+Detected adapters:
+	ID E66598541B873E39 - Raspberry Pi Debugprobe on Pico (CMSIS-DAP)
