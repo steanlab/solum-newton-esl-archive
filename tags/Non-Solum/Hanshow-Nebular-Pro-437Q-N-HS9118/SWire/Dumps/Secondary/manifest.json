@@ -1,0 +1,29 @@
+{
+  "device": "Hanshow 437Q-N",
+  "mcu_id": "026255",
+  "flash_jedec": "eb6013",
+  "flash_size_bytes": 524288,
+  "flash_size_kib": 512,
+  "flash_uid": "112004270509091600720103ffffffff",
+  "protection_status": "0x2c",
+  "read_count": 2,
+  "dumps_identical": true,
+  "sha256": "021c648656668a9e9e2344be3e8ec037f54d5e3d4f6c0cbaebf1e49336422ca1",
+  "md5": "b1bc2ef3f502d10a66885005879b380b",
+  "files": [
+    "original-437-flash-dump-1.bin",
+    "original-437-flash-dump-2.bin"
+  ],
+  "note": "Two complete independent reads of the original flash. Both dumps are byte-for-byte identical. No firmware was written.",
+  "readout": {
+    "programmer": "Hanshow PIO Readback + UART (Zero bridge)",
+    "bridge_serial": "E66598541B873E39",
+    "software": "nebular_debug.py",
+    "software_project": "Nebular_970Q_N_Programmer_Logger_Debugger_v3",
+    "mcu_interface": "SWire",
+    "flash_port": "/dev/ttyACM3",
+    "uart_port": "/dev/ttyACM4",
+    "operation": "Two independent complete flash reads",
+    "verification": "Byte-for-byte identical; SHA-256 verified"
+  }
+}
