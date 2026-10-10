@@ -7,7 +7,6 @@ erases the flash but keeps UD.
 ## Device
 - Tag model: EL016F6W4A
 - SoC family: EFR32xG22 (SE FW version 0x1020e, debug unlock allowed)
-- Exact part number: <маркировка с корпуса чипа или "unknown">
 
 ## Command
     python3 reflash.py --dump-ud-bin ud_dump1.bin \
